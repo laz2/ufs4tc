@@ -1,0 +1,10 @@
+LIBRARY ufs4tc.wfx
+EXPORTS
+	FsExecuteFile
+	FsExtractCustomIcon
+	FsFindClose
+	FsFindFirst	
+	FsFindNext	
+	FsGetDefRootName
+	FsGetFile
+	FsInit
